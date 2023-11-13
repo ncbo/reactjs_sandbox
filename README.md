@@ -21,7 +21,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Development so far
 As of now the new development includes:
 - The `Create Issue` button on the homepage that posts a test issue on a (github repository)[https://github.com/hrshdhgd/mondo/issues].
-  - The buttom will error for now since the github token has expired. 
+  - The button will error for now since the github token has expired. 
 
 
 ## Learn More
