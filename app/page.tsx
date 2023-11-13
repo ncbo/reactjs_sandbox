@@ -10,7 +10,7 @@ export default function Home() {
   const createIssue = async () => {
     setIsLoading(true);
     const octokit = new Octokit({
-      auth: `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`,
+      auth: `ghp_XXXXXXXXXXXXXXXXXX`,
     });
 
     const response = await octokit.request('POST /repos/{owner}/{repo}/issues', {
